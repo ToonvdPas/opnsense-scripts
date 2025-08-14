@@ -22,5 +22,5 @@ Arguments:
 --key     <key of the user>
 --secret  <secret of the user>
 --url     <fully qualified host name, including https:// and a trailing slash>
---portal  <the description of the Captive Portal, as is present in the ```description``` field of the zone configuration>
+--portal  <the description of the Captive Portal, as is present in the 'description' field of the zone configuration>
 ```
